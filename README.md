@@ -2,4 +2,4 @@
 
 Web-scraping and Data Analysis project using Splinter, BeautifulSoup, and Pandas.
 
-Using NASA Mars website data.
+NASA Mars website data provided by UCB extension.
